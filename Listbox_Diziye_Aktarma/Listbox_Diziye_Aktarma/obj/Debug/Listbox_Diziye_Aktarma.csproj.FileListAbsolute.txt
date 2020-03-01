@@ -1,0 +1,10 @@
+C:\Users\hacklojen\Desktop\Listbox_Diziye_Aktarma\Listbox_Diziye_Aktarma\bin\Debug\Listbox_Diziye_Aktarma.exe.config
+C:\Users\hacklojen\Desktop\Listbox_Diziye_Aktarma\Listbox_Diziye_Aktarma\bin\Debug\Listbox_Diziye_Aktarma.exe
+C:\Users\hacklojen\Desktop\Listbox_Diziye_Aktarma\Listbox_Diziye_Aktarma\bin\Debug\Listbox_Diziye_Aktarma.pdb
+C:\Users\hacklojen\Desktop\Listbox_Diziye_Aktarma\Listbox_Diziye_Aktarma\obj\Debug\Listbox_Diziye_Aktarma.csprojAssemblyReference.cache
+C:\Users\hacklojen\Desktop\Listbox_Diziye_Aktarma\Listbox_Diziye_Aktarma\obj\Debug\Listbox_Diziye_Aktarma.Form1.resources
+C:\Users\hacklojen\Desktop\Listbox_Diziye_Aktarma\Listbox_Diziye_Aktarma\obj\Debug\Listbox_Diziye_Aktarma.Properties.Resources.resources
+C:\Users\hacklojen\Desktop\Listbox_Diziye_Aktarma\Listbox_Diziye_Aktarma\obj\Debug\Listbox_Diziye_Aktarma.csproj.GenerateResource.cache
+C:\Users\hacklojen\Desktop\Listbox_Diziye_Aktarma\Listbox_Diziye_Aktarma\obj\Debug\Listbox_Diziye_Aktarma.csproj.CoreCompileInputs.cache
+C:\Users\hacklojen\Desktop\Listbox_Diziye_Aktarma\Listbox_Diziye_Aktarma\obj\Debug\Listbox_Diziye_Aktarma.exe
+C:\Users\hacklojen\Desktop\Listbox_Diziye_Aktarma\Listbox_Diziye_Aktarma\obj\Debug\Listbox_Diziye_Aktarma.pdb
