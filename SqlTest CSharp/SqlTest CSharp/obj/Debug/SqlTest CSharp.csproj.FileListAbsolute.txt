@@ -1,0 +1,13 @@
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\SqlTest CSharp\SqlTest CSharp\bin\Debug\SqlTest CSharp.exe.config
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\SqlTest CSharp\SqlTest CSharp\bin\Debug\SqlTest CSharp.exe
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\SqlTest CSharp\SqlTest CSharp\bin\Debug\SqlTest CSharp.pdb
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\SqlTest CSharp\SqlTest CSharp\obj\Debug\SqlTest CSharp.csprojResolveAssemblyReference.cache
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\SqlTest CSharp\SqlTest CSharp\obj\Debug\SqlTest CSharp.exe
+c:\users\afzaalahmad\documents\visual studio 2013\Projects\SqlTest CSharp\SqlTest CSharp\obj\Debug\SqlTest CSharp.pdb
+H:\PROJELER\C#\SqlTest CSharp\SqlTest CSharp\bin\Debug\SqlTest CSharp.exe.config
+H:\PROJELER\C#\SqlTest CSharp\SqlTest CSharp\bin\Debug\SqlTest CSharp.exe
+H:\PROJELER\C#\SqlTest CSharp\SqlTest CSharp\bin\Debug\SqlTest CSharp.pdb
+H:\PROJELER\C#\SqlTest CSharp\SqlTest CSharp\obj\Debug\SqlTest CSharp.csprojAssemblyReference.cache
+H:\PROJELER\C#\SqlTest CSharp\SqlTest CSharp\obj\Debug\SqlTest CSharp.csproj.CoreCompileInputs.cache
+H:\PROJELER\C#\SqlTest CSharp\SqlTest CSharp\obj\Debug\SqlTest CSharp.exe
+H:\PROJELER\C#\SqlTest CSharp\SqlTest CSharp\obj\Debug\SqlTest CSharp.pdb
